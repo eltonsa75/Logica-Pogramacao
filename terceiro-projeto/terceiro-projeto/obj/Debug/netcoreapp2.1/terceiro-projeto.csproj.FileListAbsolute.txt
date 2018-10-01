@@ -1,0 +1,11 @@
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\bin\Debug\netcoreapp2.1\terceiro-projeto.deps.json
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\bin\Debug\netcoreapp2.1\terceiro-projeto.runtimeconfig.json
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\bin\Debug\netcoreapp2.1\terceiro-projeto.runtimeconfig.dev.json
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\bin\Debug\netcoreapp2.1\terceiro-projeto.dll
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\bin\Debug\netcoreapp2.1\terceiro-projeto.pdb
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\obj\Debug\netcoreapp2.1\terceiro-projeto.csprojAssemblyReference.cache
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\obj\Debug\netcoreapp2.1\terceiro-projeto.csproj.CoreCompileInputs.cache
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\obj\Debug\netcoreapp2.1\terceiro-projeto.AssemblyInfoInputs.cache
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\obj\Debug\netcoreapp2.1\terceiro-projeto.AssemblyInfo.cs
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\obj\Debug\netcoreapp2.1\terceiro-projeto.dll
+D:\curso_visual_studio\projeto1\terceiro-projeto\terceiro-projeto\obj\Debug\netcoreapp2.1\terceiro-projeto.pdb
