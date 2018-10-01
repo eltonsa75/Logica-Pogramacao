@@ -1,0 +1,11 @@
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\primeiro-projeto.csprojAssemblyReference.cache
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\primeiro-projeto.csproj.CoreCompileInputs.cache
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\primeiro-projeto.AssemblyInfoInputs.cache
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\primeiro-projeto.AssemblyInfo.cs
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\primeiro-projeto.deps.json
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\primeiro-projeto.runtimeconfig.json
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\primeiro-projeto.runtimeconfig.dev.json
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\primeiro-projeto.dll
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\primeiro-projeto.pdb
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\primeiro-projeto.dll
+D:\curso_visual_studio\projeto1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\primeiro-projeto.pdb
