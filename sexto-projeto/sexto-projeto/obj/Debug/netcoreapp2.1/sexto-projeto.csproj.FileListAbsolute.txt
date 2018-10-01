@@ -1,0 +1,11 @@
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\bin\Debug\netcoreapp2.1\sexto-projeto.deps.json
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\bin\Debug\netcoreapp2.1\sexto-projeto.runtimeconfig.json
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\bin\Debug\netcoreapp2.1\sexto-projeto.runtimeconfig.dev.json
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\bin\Debug\netcoreapp2.1\sexto-projeto.dll
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\bin\Debug\netcoreapp2.1\sexto-projeto.pdb
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\obj\Debug\netcoreapp2.1\sexto-projeto.csprojAssemblyReference.cache
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\obj\Debug\netcoreapp2.1\sexto-projeto.csproj.CoreCompileInputs.cache
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\obj\Debug\netcoreapp2.1\sexto-projeto.AssemblyInfoInputs.cache
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\obj\Debug\netcoreapp2.1\sexto-projeto.AssemblyInfo.cs
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\obj\Debug\netcoreapp2.1\sexto-projeto.dll
+D:\curso_visual_studio\projeto1\sexto-projeto\sexto-projeto\obj\Debug\netcoreapp2.1\sexto-projeto.pdb
