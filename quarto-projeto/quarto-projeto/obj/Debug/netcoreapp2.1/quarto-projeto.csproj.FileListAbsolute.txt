@@ -1,0 +1,11 @@
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\bin\Debug\netcoreapp2.1\quarto-projeto.deps.json
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\bin\Debug\netcoreapp2.1\quarto-projeto.runtimeconfig.json
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\bin\Debug\netcoreapp2.1\quarto-projeto.runtimeconfig.dev.json
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\bin\Debug\netcoreapp2.1\quarto-projeto.dll
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\bin\Debug\netcoreapp2.1\quarto-projeto.pdb
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\obj\Debug\netcoreapp2.1\quarto-projeto.csprojAssemblyReference.cache
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\obj\Debug\netcoreapp2.1\quarto-projeto.csproj.CoreCompileInputs.cache
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\obj\Debug\netcoreapp2.1\quarto-projeto.AssemblyInfoInputs.cache
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\obj\Debug\netcoreapp2.1\quarto-projeto.AssemblyInfo.cs
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\obj\Debug\netcoreapp2.1\quarto-projeto.dll
+D:\curso_visual_studio\projeto1\quarto-projeto\quarto-projeto\obj\Debug\netcoreapp2.1\quarto-projeto.pdb
